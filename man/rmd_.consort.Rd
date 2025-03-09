@@ -16,3 +16,4 @@ rmd_.consort(x, xnm, ...)
 \description{
 rmd_.consort
 }
+\keyword{internal}

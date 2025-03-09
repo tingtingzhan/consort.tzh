@@ -8,6 +8,7 @@
 #' 
 #' @param ... ...
 #' 
+#' @keywords internal
 #' @export
 rmd_.consort <- function(x, xnm, ...) {
   
