@@ -2,6 +2,5 @@
 
 export(consort_plot_sidebox)
 export(paste_nna_)
-export(rmd_.consort)
 export(sidebox)
 import(consort)

@@ -11,11 +11,11 @@
 #' @param ... additional parameters, currently not in use
 #' 
 #' @details
-#' Function [sidebox] converts ineligibility criterion in *side box* into 
+#' Function [sidebox()] converts ineligibility criterion in *side box* into 
 #' a \link[base]{logical} \link[base]{matrix} of **eligibility** criterion.
 #' 
 #' @returns 
-#' Function [sidebox] returns a \link[base]{matrix}
+#' Function [sidebox()] returns a \link[base]{matrix}
 #' 
 #' @export
 sidebox <- function(pattern = '^sidebox_', data, ...) {
